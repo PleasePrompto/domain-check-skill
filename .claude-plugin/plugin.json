@@ -1,0 +1,22 @@
+{
+  "name": "domain-check",
+  "description": "Cross-platform, dependency-free domain availability checker. Five-source consensus (RDAP, WHOIS, authoritative DNS, A/AAAA, TLS), GDPR-aware for .de/.eu/.at/.ch/.es, single + bulk + naming co-pilot. Pure Python 3.11+ stdlib.",
+  "version": "1.0.0",
+  "author": {
+    "name": "PleasePrompto"
+  },
+  "homepage": "https://github.com/PleasePrompto/domain-check-skill",
+  "repository": "https://github.com/PleasePrompto/domain-check-skill",
+  "license": "MIT",
+  "keywords": [
+    "domain",
+    "whois",
+    "rdap",
+    "dns",
+    "ssl",
+    "tls",
+    "gdpr",
+    "naming",
+    "availability"
+  ]
+}
